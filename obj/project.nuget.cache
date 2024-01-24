@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "AL22rqj6m51pacRVbHot3yjdsWIqf0zofIC3C49711bu5dIVwXLVp4/gRH0+LlNUjgpDhT2hghQwUugERiB8EA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ezequ\\source\\repos\\Mentoria Backend\\Mentoria Backend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\ezequ\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\ezequ\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\ezequ\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\ezequ\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\ezequ\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
